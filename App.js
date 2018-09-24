@@ -18,7 +18,7 @@ export default class App extends Component {
      <View   >
      <Header style={styles.container} 
         leftComponent={{ icon: 'menu', color: '#fff' }}
-        centerComponent={{ text: 'MY TITLE', style: { color: '#fff' } }}
+        centerComponent={{ text: 'CAT', style: { color: '#fff' } }}
         rightComponent={{ icon: 'home', color: '#fff' }}
       />
           <Text  style={styles.welcome} >
